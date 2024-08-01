@@ -32,4 +32,4 @@
   - Reduce dependencies
 
 - Create a new workspace and intial starter app:
-  ## ng new my-app
+  ng new my-app
