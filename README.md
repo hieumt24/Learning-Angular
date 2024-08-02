@@ -42,3 +42,5 @@ Modular Applications:
   - The general features & how you work with components are the same through - no matter if "standalone" is "true" or "false"
 
   ![alt text](image.png)
+
+  - In order versions of Angular, "styleUrl" does'nt - use "styleUrls" instead!
