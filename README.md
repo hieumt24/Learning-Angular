@@ -12,7 +12,9 @@
 - It's powerful & flexible.
 - The Angular team is innovating whilst maintainning backward-compatibility.
 
-## Why a framework? + Simplifies the process of building complex, interactive web user interfaces.
+## Why a framework?
+
+- Simplifies the process of building complex, interactive web user interfaces.
 
 1. Write declarative code
 2. Separation of concerns via components.
@@ -34,6 +36,9 @@ Modular Applications:
 
 - Create a new workspace and intial starter app:
 
-```
- ng new my-app
-```
+  ## ng new my-app
+
+  - Classes are a standard JavaScript feature(when using moderm JavaScript) - it's NOT a TypeScript-specific construct.
+  - The general features & how you work with components are the same through - no matter if "standalone" is "true" or "false"
+
+  ![alt text](image.png)
