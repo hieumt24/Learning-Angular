@@ -44,3 +44,7 @@ Modular Applications:
   ![alt text](image.png)
 
   - In order versions of Angular, "styleUrl" does'nt - use "styleUrls" instead!
+  - CTRL + SPACE should open up the IDE suggestions popup which offers useful, context-sensitive completions & code suggestions.
+    ![alt text](image-2.png)
+
+  ![alt text](image-1.png)
